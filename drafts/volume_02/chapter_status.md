@@ -1,8 +1,8 @@
 # 第二卷章节状态追踪
 
 ## 统计
-*   **总进度**：75 / 100
-*   **当前阶段**：第五阶段（名家逻辑锁）结束，准备进入第六阶段（儒家礼教与法家秩序）
+*   **总进度**：100 / 100
+*   **当前阶段**：第二卷完结
 
 ## 章节列表
 
@@ -110,4 +110,12 @@
 - [x] **第189章 焚书坑儒（历史回响）** (ch189_burning_books.md)
 - [x] **第190章 祖龙苏醒** (ch190_ancestral_dragon_awakens.md)
 - [x] **第191章 画地为牢** (ch191_drawing_circle_prison.md)
-- [ ] **第192章 荆轲刺秦（复刻版）**
+- [x] **第192章 荆轲刺秦（复刻版）** (ch192_jing_ke_assassination.md)
+- [x] **第193章 威道之剑** (ch193_sword_of_authority.md)
+- [x] **第194章 天下围攻** (ch194_siege_of_the_world.md)
+- [x] **第195章 皇帝的野望** (ch195_emperor_ambition.md)
+- [x] **第196章 最后的博弈** (ch196_final_game.md)
+- [x] **第197章 韩非的遗愿** (ch197_han_fei_last_wish.md)
+- [x] **第198章 天下大乱** (ch198_chaos_under_heaven.md)
+- [x] **第199章 半壁江山** (ch199_half_the_world.md)
+- [x] **第200章 百家争鸣（卷终）** (ch200_hundred_schools_contend.md)
