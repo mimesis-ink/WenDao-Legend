@@ -1,8 +1,8 @@
 # 第二卷章节状态追踪
 
 ## 统计
-*   **总进度**：62 / 100
-*   **当前阶段**：第四阶段结束，第五阶段（名家逻辑锁）开始
+*   **总进度**：75 / 100
+*   **当前阶段**：第五阶段（名家逻辑锁）结束，准备进入第六阶段（儒家礼教与法家秩序）
 
 ## 章节列表
 
@@ -75,7 +75,21 @@
 - [x] **第160章 信任危机** (ch160_trust_crisis.md)
 - [x] **第161章 鬼谷子的真面目** (ch161_true_identity.md)
 
-### 第五阶段：名家逻辑锁（162-185）
+### 第五阶段：名家逻辑锁（162-175）
 - [x] **第162章 离开鬼谷，告别师兄** (ch162_farewell_senior_brother.md)
-- [ ] **第163章 稷下学宫：赛博学院** (ch163_jixia_academy.md)
-- [ ] ... (待补充)
+- [x] **第163章 稷下学宫：赛博学院** (ch163_jixia_academy.md)
+- [x] **第164章 白马非马** (ch164_white_horse_not_horse.md)
+- [x] **第165章 概念监狱** (ch165_concept_prison.md)
+- [x] **第166章 惠子的特训** (ch166_hui_zi_training.md)
+- [x] **第167章 坚白同异** (ch167_hard_and_white_separation.md)
+- [x] **第168章 越狱辩论** (ch168_jailbreak_debate.md)
+- [x] **第169章 飞矢不动** (ch169_flying_arrow_motion.md)
+- [x] **第170章 逻辑死循环** (ch170_logical_loop.md)
+- [x] **第171章 全城公审** (ch171_city_wide_trial.md)
+- [x] **第172章 楚公子的“诡辩”** (ch172_chu_gongzi_music.md)
+- [x] **第173章 韩知白的“法治”** (ch173_han_zhibai_rule_of_law.md)
+- [x] **第174章 指物论：现实格式化** (ch174_formatting_reality.md)
+- [x] **第175章 道可道，非常道** (ch175_the_nameless_tao.md)
+
+### 第六阶段：儒家礼教与终局（176-200）
+- [ ] **第176章 夫子的影子**
