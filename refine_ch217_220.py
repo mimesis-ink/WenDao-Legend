@@ -1,4 +1,10 @@
-# 第二百一十七章 壁画中的上古文明
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+import sys
+
+# Chapter 217 refined content
+ch217_content = """# 第二百一十七章 壁画中的上古文明
 
 随着身体机能的逐渐恢复，那种只有在安全区才能享受到的奢侈——好奇心，开始在两人的心中萌发。
 
@@ -112,3 +118,11 @@
 （第二百一十七章·完）
 
 
+"""
+
+# Save to file
+with open('drafts/volume_03/ch217_ancient_civilization_murals.md', 'w', encoding='utf-8') as f:
+    f.write(ch217_content)
+
+print("Chapter 217 refined and saved.")
+print(f"Character count: {len(ch217_content)} characters")

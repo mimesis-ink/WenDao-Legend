@@ -1,4 +1,7 @@
-# 第二百一十九章 九色鹿：引导精灵
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+ch219_content = """# 第二百一十九章 九色鹿：引导精灵
 
 硝烟，警报，还有濒临崩溃的引擎。
 
@@ -111,3 +114,10 @@
 玄武号，重生了。
 
 （第二百一十九章·完）
+"""
+
+with open('drafts/volume_03/ch219_nine_colored_deer.md', 'w', encoding='utf-8') as f:
+    f.write(ch219_content)
+
+print("Chapter 219 refined and saved.")
+print(f"Character count: {len(ch219_content)} characters")

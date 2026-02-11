@@ -1,4 +1,7 @@
-# 第二百二十章 玄武号的重生
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+ch220_content = """# 第二百二十章 玄武号的重生
 
 "坐稳了！"
 
@@ -139,3 +142,10 @@
 只留下一串淡淡的光痕，在空中缓缓消散。
 
 （第三卷 莫高窟篇·完）
+"""
+
+with open('drafts/volume_03/ch220_repairing_xuanwu.md', 'w', encoding='utf-8') as f:
+    f.write(ch220_content)
+
+print("Chapter 220 refined and saved.")
+print(f"Character count: {len(ch220_content)} characters")

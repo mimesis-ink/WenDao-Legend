@@ -1,4 +1,7 @@
-# 第二百一十八章 飞天：反重力引擎图纸
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+ch218_content = """# 第二百一十八章 飞天：反重力引擎图纸
 
 当萧千卷气喘吁吁地跑回临时营地时，看到的场景并不乐观。
 
@@ -93,3 +96,10 @@
 "那就让他们见识一下，"墨染抄起扳手，眼中燃起了战意。她抹去嘴角的油污，嘴角勾起一抹疯狂的笑意，"什么叫作——敦煌流·飞天战车！"
 
 （第二百一十八章·完）
+"""
+
+with open('drafts/volume_03/ch218_flying_apsaras_blueprint.md', 'w', encoding='utf-8') as f:
+    f.write(ch218_content)
+
+print("Chapter 218 refined and saved.")
+print(f"Character count: {len(ch218_content)} characters")
